@@ -4,7 +4,7 @@
 
 Welcome to you all !
 
-This [GitHub Home page] contains all the materials for the course **Introduction to Python for Finance 2022** at Université Paris Dauphine.
+This [GitHub Home page] contains all the materials for the course **Introduction to Python for Finance 2023** at Université Paris Dauphine.
 
 ## Instructor
 
@@ -16,12 +16,12 @@ This [GitHub Home page] contains all the materials for the course **Introduction
 
 ## Syllabus 
 
-| Date    | Hours | Lectures topics  | Lectures | 
-|----------- | ----------- | ----------- | ----------- | 
-| 05/10/23<br>05/10/23   | 17:15<br>20:30 |  Fundamentals of Python | [Lecture_1](Lectures/Lecture_1.pdf "Lecture1 PDF")   
-| 05/10/23<br>05/10/23  | 18:00 | 20:00 | Additional Python Session | [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/> 
-| 05/03/22<br>05/03/22 |  17:15<br>20:30 | Practical Implementation : Credit risk dataset 
-| 05/10/22<br>05/10/22 |   17:15<br>20:30  | Introduction to Neural Networks. | [Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF") 
+| Date    | Hours | Lectures topics  | Lectures | Corrected Lectures
+|----------| ----------- | ----------- | ----------- |  ----------- | 
+| 05/10/23 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/> 
+| 12/10/23 | 17:15<br>20:30 | Numpy and Pandas| [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/> 
+| 19/10/23 | 17:15<br>20:30 | Matplotlib and yfinance | [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/>
+| 26/10/23 | 17:15<br>20:30  | Revisions | [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/>
 
 
 ## Module Outline Information
@@ -29,19 +29,16 @@ This [GitHub Home page] contains all the materials for the course **Introduction
 ### Module Description
 The module is structured around 4 sessions of 3 hours each. The sessions are comprised of practical implementation sessions. Students will be expected to devote an equivalent amount of learning time outside of class, in private and group study of module material. Teaching format will employ Python.
 
-### Module Aims & Objectives
-The module will introduce the main subareas of Python in order to tackle various problem tasks.   
 
 ### Learning Outcomes 
 
 The objectives of this module are:
-* Develop knowledge on the roadmap for building machine learning systems.
-* Get familiar with traditional Machine Learning algorithms and more advanced techniques including Deep Learning. 
-* Get a good understanding of the basic concepts of Supervised Learning, Unsupervised Learning and Sequence Models.
-* Develop skills to process sequential data, especially in the context of Natural Language Processing. 
-* Practice supervised learning by predicting loan default risk.
-* Practice sentiment analysis with state-of-the-art algorithms for sequential data.
-
+* Grasp foundational Python programming concepts, including variables, data types, and the print() function.
+* Master the use of conditional statements (if, elif, else) to control program flow based on specific conditions. 
+* Understand the concept and importance of libraries and modules in Python, introducing primary tools like Numpy and Pandas.
+* Acquire proficiency in using Numpy for numerical operations and Pandas for structured data exploration, manipulation, and analysis.
+* Develop the skills to create and customize data visualizations using Matplotlib, showcasing insights from datasets.
+* Introduce yfinance to fetch and analyze stock market data, integrating its functionality with Pandas and Matplotlib for comprehensive financial analysis.
 
 
 ## Assessment 
@@ -50,18 +47,6 @@ The objectives of this module are:
 * Exam : 70% 
 
 
-
-
-
-## White Exam
-
-
-
-
-
-
-
-
 ## Contact
 
-Please feel free to contact us if you have any questions or require further information at: h.madmoun@imperial.ac.uk
+Please feel free to contact us if you have any questions or require further information at: j.chichportich@queensfield.ai
