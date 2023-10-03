@@ -6,29 +6,22 @@ Welcome to you all !
 
 This [GitHub Home page] contains all the materials for the course **Introduction to Python for Finance 2022** at Université Paris Dauphine.
 
-## Instructors
+## Instructor
 
 * Jeremy Chichportich
 
 ## Getting Started
 * The scripts are written as Jupyter notebooks and run directly in Google Colab.
-* If you prefer to run the scripts on your machine, please follow the instructions in the following link: [Installation instruction](https://colab.research.google.com/drive/1pRlyGPBJhizXXcSRxITIgCI8MQxS34Vp?usp=sharing)
-
-
-## Prerequisites
-* Basic knowledge in probability theory and calculus.
-* Proficiency in some programming language, preferably Python. 
-
+* For those who'd like to execute the scripts locally, consider using Jupyter Notebook. Check out this [tutorial](https://test-jupyter.readthedocs.io/en/latest/install.html) on how to install Jupyter through Anaconda for detailed guidance.
 
 ## Syllabus 
 
-| Date    | Start | End | Lectures topics  | Lectures | 
-|----------- | ----------- | ----------- | ----------- | ----------- |
-| 05/10/23<br>05/10/23   | 17:15<br>20:30 |  17:15<br>20:30 |  Fundamentals of Python | [Lecture_1](Lectures/Lecture_1.pdf "Lecture1 PDF")   
-| 05/10/23<br>05/10/23  | 18:00 | 20:00 | Additional Python Session | Practical Implementation | No quiz | No quiz|[Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/>   | |
-| 04/26/22<br>04/26/22 |   17:15<br>20:30  |  17:15<br>20:30   | Supervised Learning Algorithms | [Lecture_2](Lectures/Lecture_2.pdf "Lecture2 PDF") 
-| 05/03/22<br>05/03/22 |  17:15<br>20:30 |  17:15<br>20:30  | Practical Implementation : Credit risk dataset | Practical Implementation 
-| 05/10/22<br>05/10/22 |   17:15<br>20:30  |  17:15<br>20:30   | Introduction to Neural Networks. | [Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF") 
+| Date    | Hours | Lectures topics  | Lectures | 
+|----------- | ----------- | ----------- | ----------- | 
+| 05/10/23<br>05/10/23   | 17:15<br>20:30 |  Fundamentals of Python | [Lecture_1](Lectures/Lecture_1.pdf "Lecture1 PDF")   
+| 05/10/23<br>05/10/23  | 18:00 | 20:00 | Additional Python Session | [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/> 
+| 05/03/22<br>05/03/22 |  17:15<br>20:30 | Practical Implementation : Credit risk dataset 
+| 05/10/22<br>05/10/22 |   17:15<br>20:30  | Introduction to Neural Networks. | [Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF") 
 
 
 ## Module Outline Information
