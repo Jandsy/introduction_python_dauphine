@@ -27,7 +27,7 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 ## Module Outline Information
 
 ### Module Description
-The module is structured around 4 sessions of 3 hours each. The sessions are comprised of practical implementation sessions. Students will be expected to devote an equivalent amount of learning time outside of class, in private and group study of module material. Teaching format will employ Python.
+The module consists of four sessions, each lasting three hours. These sessions focus on hands-on practical exercises. Students are anticipated to dedicate an equal amount of time outside of class for individual and group study of the module content. The teaching approach will utilize Python.
 
 
 ### Learning Outcomes 
