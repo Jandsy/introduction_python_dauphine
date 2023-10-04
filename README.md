@@ -18,10 +18,10 @@ This [GitHub Home page] contains all the materials for the course **Introduction
 
 | Date    | Hours | Lectures topics  | Lectures | Corrected Lectures
 |----------| ----------- | ----------- | ----------- |  ----------- | 
-| 05/10/23 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/> 
-| 12/10/23 | 17:15<br>20:30 | Numpy and Pandas| [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/> 
-| 19/10/23 | 17:15<br>20:30 | Matplotlib and yfinance | [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/>
-| 26/10/23 | 17:15<br>20:30  | Revisions | [Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing)  <br/>
+| 05/10/23 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python][Session1/  <br/> 
+| 12/10/23 | 17:15<br>20:30 | Numpy and Pandas| [Code_Python]  <br/> 
+| 19/10/23 | 17:15<br>20:30 | Matplotlib and yfinance |   <br/>
+| 26/10/23 | 17:15<br>20:30  | Revisions | [Code_Python]  <br/>
 
 
 ## Module Outline Information
