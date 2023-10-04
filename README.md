@@ -4,7 +4,7 @@
 
 Welcome to you all !
 
-This [GitHub Home page] contains all the materials for the course **Introduction to Python for Finance 2023** at Université Paris Dauphine.
+This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) contains all the materials for the course **Introduction to Python for Finance 2023** at Université Paris Dauphine.
 
 ## Instructor
 
