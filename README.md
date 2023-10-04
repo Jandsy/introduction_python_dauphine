@@ -1,6 +1,6 @@
-# Introduction to Python for Finance
 
-<img src="[https://drive.google.com/uc?export=view&id=1gmxxmwCR1WXK0IYtNqvE4QXFleznWqQO](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3ADauphine_logo_2019_-_Bleu.png&psig=AOvVaw2Mwwf9vjwtqV-QxTN4NZpf&ust=1695390117615000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjJtL_qu4EDFQAAAAAdAAAAABAE)" height="100"/>
+
+<img src="https://dauphine.psl.eu/fileadmin/_processed_/9/2/csm_damier_logo_Dauphine_f7b37a1ff2.jpg" width="200" style="vertical-align:middle" /> <h1>Master 222: Introduction to Python for Finance </h1>
 
 Welcome to you all !
 
