@@ -19,9 +19,9 @@ This [GitHub Home page] contains all the materials for the course **Introduction
 | Date    | Hours | Lectures topics  | Lectures | Corrected Lectures
 |----------| ----------- | ----------- | ----------- |  ----------- | 
 | 05/10/23 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](Session 1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> 
-| 12/10/23 | 17:15<br>20:30 | Numpy and Pandas| [Code_Python]  <br/> 
+| 12/10/23 | 17:15<br>20:30 | Numpy and Pandas|  <br/> 
 | 19/10/23 | 17:15<br>20:30 | Matplotlib and yfinance |   <br/>
-| 26/10/23 | 17:15<br>20:30  | Revisions | [Code_Python]  <br/>
+| 26/10/23 | 17:15<br>20:30  | Revisions |   <br/>
 
 
 ## Module Outline Information
