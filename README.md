@@ -1,10 +1,10 @@
 
 
-<img src="https://dauphine.psl.eu/fileadmin/_processed_/9/2/csm_damier_logo_Dauphine_f7b37a1ff2.jpg" width="200" style="vertical-align:middle" /> <h1>Master 222: Introduction to Python for Finance </h1>
+<img src="https://dauphine.psl.eu/fileadmin/_processed_/9/2/csm_damier_logo_Dauphine_f7b37a1ff2.jpg" width="200" style="vertical-align:middle" /> <h1>Master 222: Introduction to Python </h1>
 
 Welcome to you all !
 
-This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) contains all the materials for the course **Introduction to Python for Finance 2023** at Université Paris Dauphine.
+This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) contains all the materials for the course **Introduction to Python 2023** at Université Paris Dauphine.
 
 ## Instructor
 
