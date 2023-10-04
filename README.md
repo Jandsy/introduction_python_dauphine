@@ -21,7 +21,7 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 | 05/10/23 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> 
 | 12/10/23 | 17:15<br>20:30 | Numpy and Pandas|  <br/> 
 | 19/10/23 | 17:15<br>20:30 | Matplotlib and yfinance |   <br/>
-| 26/10/23 | 17:15<br>20:30  | Revisions |   <br/>
+| 26/10/23 | 17:15<br>20:30  | Exercices and White Exam |   <br/>
 
 
 ## Module Outline Information
