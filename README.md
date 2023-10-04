@@ -49,4 +49,4 @@ The objectives of this module are:
 
 ## Contact
 
-Please feel free to contact us if you have any questions or require further information at: j.chichportich[at]queensfield.ai
+Please feel free to contact us if you have any questions or require further information at: chichportichjeremy[at]gmail[dot]com
