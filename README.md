@@ -19,7 +19,7 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 | Date    | Hours | Lectures topics  | Lectures | Corrected Lectures
 |----------| ----------- | ----------- | ----------- |  ----------- | 
 | 05/10/23 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> 
-| 12/10/23 | 17:15<br>20:30 | Numpy and Pandas|  <br/> 
+| 12/10/23 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_1")  <br/> <br/> 
 | 19/10/23 | 17:15<br>20:30 | Matplotlib and yfinance |   <br/>
 | 26/10/23 | 17:15<br>20:30  | Exercises and White Exam |   <br/>
 
