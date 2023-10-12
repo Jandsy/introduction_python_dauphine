@@ -22,7 +22,7 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 | 12/10/23 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/> <br/> 
 | 19/10/23 | 17:15<br>20:30 | Matplotlib and yfinance |  [Code_Python](Session_3/pandas_and_yfinance_dauphine.ipynb "Session_2") <br/>
 | 26/10/23 | 17:15<br>20:30  | Exercises and White Exam |   <br/>
-| 9/11/23 |   | Exam |   <br/>
+| 09/11/23 |   | Exam |   <br/>
 
 
 ## Module Outline Information
