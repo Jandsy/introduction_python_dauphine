@@ -29,6 +29,9 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 
 Lien de l'appel vidéo : https://meet.google.com/zje-qptg-kxc
 
+ https://meet.google.com/ihr-btgc-mvq
+
+
 ## Module Outline Information
 
 ### Module Description
