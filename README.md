@@ -25,6 +25,10 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 | 09/11/23 |   | Exam |   <br/>
 
 
+## GOOGLE MEETS
+
+Lien de l'appel vidéo : https://meet.google.com/zje-qptg-kxc
+
 ## Module Outline Information
 
 ### Module Description
