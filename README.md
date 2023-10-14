@@ -25,9 +25,6 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 | 09/11/23 |   | Exam |   <br/>
 
 
-## GOOGLE MEETS
-
-https://meet.google.com/rmk-vqro-qbk
 
 
 ## Module Outline Information
