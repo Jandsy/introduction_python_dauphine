@@ -26,6 +26,9 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 
 
 
+### GOOGLE MEETS
+
+meet.google.com/ost-gnxf-fvp
 
 ## Module Outline Information
 
