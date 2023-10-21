@@ -21,14 +21,11 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 | 05/10/23 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> | [Code_Python](Session_1/fundamentals_python_dauphine_correction.ipynb "Session_1")
 | 12/10/23 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | [Code_Python](Session_2/corrected_numpy_and_pandas_python_dauphine.ipynb "Session_2")
 | 19/10/23 | 17:15<br>20:30 | Matplotlib and yfinance |  [Code_Python](Session_3/matplotlib_yfinance_python_dauphine.ipynb "Session_3") <br/>
-| 26/10/23 | 17:15<br>20:30  | Exercises and White Exam |  [White Exam](White_Exam_Dauphine.pdf)  <br/>
+| 26/10/23 | 17:15<br>20:30  | Exercises and White Exam |  [White Exam](White_exam_Dauphine.pdf)  <br/>
 | 09/11/23 |   | Exam |   <br/>
 
 
 
-### GOOGLE MEETS
-[https://meet.google.com/ant-eowz-ufp
-](https://meet.google.com/ant-eowz-ufp)
 ## Module Outline Information
 
 ### Module Description
