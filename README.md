@@ -24,9 +24,6 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 | 26/10/23 | 17:15<br>20:30  | Exercises and White Exam |  [White Exam](White_exam_Dauphine.pdf)  <br/>
 | 09/11/23 |   | Exam |   <br/>
 
-## GOOGLE MEETS
-
-Lien de l'appel vidéo : https://meet.google.com/wae-tgor-xqx
 
 ## Module Outline Information
 
