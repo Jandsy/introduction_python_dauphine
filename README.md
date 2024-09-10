@@ -18,11 +18,12 @@ This [GitHub Home page](https://github.com/Jandsy/introduction_python_dauphine) 
 
 | Date    | Hours | Lectures topics  | Lectures | Corrected Lectures
 |----------| ----------- | ----------- | ----------- |  ----------- | 
-| 05/10/23 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> | [Corrections](Session_1/fundamentals_python_dauphine_correction.ipynb "Session_1")
-| 12/10/23 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | [Corrections](Session_2/corrected_numpy_and_pandas_python_dauphine.ipynb "Session_2")
-| 19/10/23 | 17:15<br>20:30 | Matplotlib and yfinance |  [Code_Python](Session_3/matplotlib_yfinance_python_dauphine.ipynb "Session_3") <br/> |[Corrections](Session_3/corrected_matplotlib_yfinance_python_dauphine.ipynb "Session 3")
-| 26/10/23 | 17:15<br>20:30  | Exercises and White Exam |  [White Exam](White_exam_Dauphine.pdf)  <br/> | [White Exam: Corrections](White_exam_dauphine_corrected.pdf)
-| 09/11/23 |   | Exam |   <br/>
+| 10/09/24 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> | 
+| 12/09/24 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | 
+| 17/09/24 | 17:15<br>20:30 | Matplotlib and yfinance |  <br/> |
+| 19/09/24 | 17:15<br>20:30  | Strategy and LLM |   <br/> | 
+| 24/09/24 | 17:15<br>20:30  | Exercices and White Exam |   <br/> | 
+| 17/10/24 |   | Exam |   <br/>
 
 
 ## Module Outline Information
