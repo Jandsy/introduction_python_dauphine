@@ -21,7 +21,7 @@ Pour participer à la visioconférence, cliquez sur ce lien : https://meet.goog
 | Date    | Hours | Lectures topics  | Lectures | Corrected Lectures
 |----------| ----------- | ----------- | ----------- |  ----------- | 
 | 10/09/24 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> | [Solution](Session_1/corrected_fundamentals_python_dauphine.ipynb "Session 1")
-| 12/09/24 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | 
+| 12/09/24 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | [Partial_Solution](Session_2/partial_solution_numpy_and_pandas_python_dauphine.ipynb)
 | 17/09/24 | 17:15<br>20:30 | Matplotlib and yfinance |  <br/> |
 | 19/09/24 | 17:15<br>20:30  | Strategy and LLM |   <br/> | 
 | 24/09/24 | 17:15<br>20:30  | Exercices and White Exam |   <br/> | 
