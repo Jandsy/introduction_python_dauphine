@@ -10,8 +10,7 @@ https://github.com/Jandsy/introduction_python_dauphine
 
 * Jeremy Chichportich
 
-## Google Meet Link
-Pour participer à la visioconférence, cliquez sur ce lien : https://meet.google.com/
+
 ## Getting Started
 * The scripts are written as Jupyter notebooks and run directly in Google Colab.
 * For those who'd like to execute the scripts locally, consider using Jupyter Notebook. Check out this [tutorial](https://test-jupyter.readthedocs.io/en/latest/install.html) on how to install Jupyter through Anaconda for detailed guidance.
