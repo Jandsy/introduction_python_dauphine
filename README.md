@@ -29,7 +29,7 @@ Plus de numéros de téléphone : https://tel.meet/fdp-jdra-pxj?pin=76445080396
 | Date    | Hours | Lectures topics  | Lectures | Corrected Lectures
 |----------| ----------- | ----------- | ----------- |  ----------- | 
 | 10/09/24 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> | [Solution](Session_1/corrected_fundamentals_python_dauphine.ipynb "Session 1")
-| 12/09/24 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | [Partial_Solution](Session_2/partial_solution_numpy_and_pandas_python_dauphine.ipynb)
+| 12/09/24 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | [Solution](Session_2/corrected_numpy_and_pandas_python_dauphine.ipynb "Session_2")
 | 17/09/24 | 17:15<br>20:30 | Matplotlib and yfinance | [Code_Python](Session_3/matplotlib_yfinance_python_dauphine.ipynb "Session_3") <br/> | [Solution](Session_3/Session_3/corrected_matplotlib_yfinance_dauphine.ipynb "Session_3")
 | 19/09/24 | 17:15<br>20:30  | Strategy and LLM |  [Code_Python](Section_4/Strategy_and_LLM.ipynb "Session_4") <br/> | 
 | 24/09/24 | 17:15<br>20:30  | Exercices and White Exam |   <br/> | 
