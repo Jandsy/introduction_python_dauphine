@@ -10,16 +10,6 @@ https://github.com/Jandsy/introduction_python_dauphine
 
 * Jeremy Chichportich
 
-## GoogleMeet
-(Sans titre)
-Jeudi, 19 septembre · 5:15 à 8:15pm
-Fuseau horaire : Europe/Paris
-Informations de connexion Google Meet
-Lien de l'appel vidéo : https://meet.google.com/fdp-jdra-pxj
-Ou composez le : ‪(FR) +33 1 87 40 04 89‬ CODE : ‪443 298 873‬#
-Plus de numéros de téléphone : https://tel.meet/fdp-jdra-pxj?pin=7644508039663
-
-
 ## Getting Started
 * The scripts are written as Jupyter notebooks and run directly in Google Colab.
 * For those who'd like to execute the scripts locally, consider using Jupyter Notebook. Check out this [tutorial](https://test-jupyter.readthedocs.io/en/latest/install.html) on how to install Jupyter through Anaconda for detailed guidance.
