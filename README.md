@@ -21,7 +21,7 @@ https://github.com/Jandsy/introduction_python_dauphine
 | 10/09/24 | 17:15<br>20:30 |  Fundamentals of Python | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> | [Solution](Session_1/corrected_fundamentals_python_dauphine.ipynb "Session 1")
 | 12/09/24 | 17:15<br>20:30 | Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | [Solution](Session_2/corrected_numpy_and_pandas_python_dauphine.ipynb "Session_2")
 | 17/09/24 | 17:15<br>20:30 | Matplotlib and yfinance | [Code_Python](Session_3/matplotlib_yfinance_python_dauphine.ipynb "Session_3") <br/> | [Solution](Session_3/corrected_matplotlib_yfinance_dauphine.ipynb "Session_3")
-| 19/09/24 | 17:15<br>20:30  | Strategy and LLM |  [Code_Python](Section_4/Strategy_and_LLM.ipynb "Session_4") <br/> | 
+| 19/09/24 | 17:15<br>20:30  | Strategy and LLM |  [Code_Python](Section_4/Strategy_and_LLM.ipynb "Session_4") <br/> | [Solution](Section_4/Partial_Solution_Strategy_and_LLM.ipynb "Session_4")
 | 24/09/24 | 17:15<br>20:30  | Exercices and White Exam |   <br/> | 
 | 17/10/24 |   | Exam |   <br/>
 
