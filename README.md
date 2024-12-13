@@ -45,8 +45,7 @@ The objectives of this module are:
 
 ## Assessment 
 
-* Participation : 30%
-* Exam : 70% 
+* Exam : 100% 
 
 
 ## Contact
